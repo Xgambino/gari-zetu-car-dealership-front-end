@@ -50,14 +50,17 @@ const ContactUs = () => {
             <h3>Contact Details</h3>
             <p>Email: gariZetu@gmail.com</p>
             <p>Phone: 78456-7890</p>
-            <p>Address: Kenya, Nairobi,Kiambu Road</p>
+            <p>Address: Kenya, Nairobi, Kiambu Road</p>
           </div>
           <div className="contact-map">
             <h3>Our Location</h3>
             <iframe
               title="Company Location"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.132781433252!2d36.84030731819246!3d-1.2296663139418555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTHCsDUyJzQwLjYiTiAwwrAyNic0Mi42Ilc!5e0!3m2!1sen!2ske!4v1626535226837!5m2!1sen!2ske"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.132781433252!2d36.83869206546255!3d-1.230402866666874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zLTFCwsKwMicsIE4gMzYsIDMwwrCwNicsIFc!5e0!3m2!1sen!2ske!4v1626535226837!5m2!1sen!2ske"
+              width="600"
+              height="600"
               frameBorder="0"
+              style={{ border: 0 }}
               allowFullScreen=""
               aria-hidden="false"
               tabIndex="0"
